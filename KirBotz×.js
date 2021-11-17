@@ -1,8 +1,14 @@
 /*
-Edit Di setting.json
-No Enc Beli Di Gwe Ngentod
-Kalau Gak Tembusin 1k
-Tiap Hari Up Sc No Enc
+Jangan jual sc ini bang
+Sc ini gratis buat kalian
+Gak subrek gak bakalan work
+Setidaknya jan hapus nama fake nya
+Hargai yang buat
+Gua tiap hari gadang
+Sekolah telat
+Makan telat 
+Demi sc nya selesai
+Aku mohon tinggalkan nama ku aja dah bangga kok🥺
 */
 const { fetchJson, getBase64, kyun, createExif } = require('./lib/fetcher')
 const { color, bgcolor } = require('./lib/color')
